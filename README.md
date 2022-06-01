@@ -1,0 +1,2 @@
+# theory_of_probability_and_mathematical_statistics
+homeworks for GB course of theory_of_probability_and_mathematical_statistics
